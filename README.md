@@ -37,7 +37,7 @@
 
 💼 **11**
 
-🔭 Currently working on **[AutomationFrameWorkBasic](https://github.com/saurabhg20oct/AutomationFrameWorkBasic)**
+🔭 Currently working on **[AI_SERVICE_KNOWLEDGE_ENGINE](https://github.com/saurabhg20oct/ai-knowledge-engine)**
 
 🌱 Currently learning **Gen AI for QA**
 
