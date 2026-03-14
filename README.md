@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/saurabhg20oct">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%20-%20Builds%20automation%20frameworks%20that%20scale%20instead%20of%20sulk.%20-%20Sneaks%20quality%20into%20every%20corner%20of%20CI%2FCD%20so%20releases%20stay%20drama-free.%20-%20Leads%20teams%2C%20improves%20code%20health%2C%20and%20prevents%20bugs%20like%20a%20habit.%20-%20Shipped%2035%2B%20automation-driven%20releases%20without%20giving%20Product%20a%20heart%20attack.%20-%20Open%20to%20work%20and%20open%20to%20solving%20quality%20problems%20you%20didn%E2%80%99t%20even%20know%20you%20had." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FE428E&center=true&vCenter=true&width=600&lines=SDET-3+%7C+Automation+Architect;Scalable+test+automation+frameworks;Quality+engineered+into+CI%2FCD." alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
