@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:fe428e,100:0d1117&height=200&section=header&text=Saurabh%20Garg&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET%20Lead%20%40%20Goto%20Finaciial&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:fe428e,100:0d1117&height=200&section=header&text=Saurabh%20Garg&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET-3%20%40%20Goto%20Finaciial&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/saurabhg20oct">
@@ -37,7 +37,7 @@
 
 💼 **11**
 
-🔭 Currently working on **[AI_SERVICE_KNOWLEDGE_ENGINE](https://github.com/saurabhg20oct/ai-knowledge-engine)**
+🔭 Currently working on **[CHATBOT](https://github.com/saurabhg20oct/ai-knowledge-engine)**
 
 🌱 Currently learning **Gen AI for QA**
 
